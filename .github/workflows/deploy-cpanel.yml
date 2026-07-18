@@ -3,7 +3,7 @@ name: Deploy Alpha to cPanel
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
